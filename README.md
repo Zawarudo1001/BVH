@@ -1,2 +1,2 @@
 # BVH
-BVH - Bounding Volumes Hierachy, one of the most expressive RTX aceleration data structure
+BVH - Bounding Volumes Hierachy, ускоряющая структура данных используемая в Ray Tracing, генерирующая дерево разбиения трехмерного пространства на ограничивающие объемы и позволяющая очень быстро находить пересечения лучей с примитивами на сцене.
